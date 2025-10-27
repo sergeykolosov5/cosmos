@@ -1,9 +1,9 @@
 @font-face{
     font-family:"Kvitka";
-    src: url("assets/fonts/KvitkaSPDemo.otf") format("opentype");}
+    src: url("./assets/fonts/KvitkaSPDemo.otf") format("opentype");}
     @font-face{
     font-family:"Arsenal";
-    src: url("assets/fonts/Arsenal-Regular.ttf") format("opentype");}
+    src: url("./assets/fonts/Arsenal-Regular.ttf") format("opentype");}
 body{
     background-color: #C8D0C1;
     margin: 0;
@@ -74,6 +74,12 @@ p{
     font-family: "Kvitka";
     font-size: 60px;
 }
+#idimg2
+{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
 .text2{
     padding-top: 10px;
     padding-left: 20px;
@@ -95,6 +101,116 @@ p{
     font-size: 60px;
 }
 .text4{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp4{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text5{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp5{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text6{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp6{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text7{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp7{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text8{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp8{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text9{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp9{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text10{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp10{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text11{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp11{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text12{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp12{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text13{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp13{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text14{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#idp14{
+    text-align: center;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+.text15{
     padding-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
