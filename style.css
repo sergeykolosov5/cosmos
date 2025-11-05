@@ -27,6 +27,45 @@ body{
     z-index: 2;
     top: 36px;
 }
+#block1{
+    display: flex;
+    gap:37px
+    
+}
+#block2{
+    display: flex;
+    gap:37px
+    
+}
+
+.y1953{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 420px;
+}
+.picture{
+    margin-top: 20px;
+    height: 288px;
+}
+#img1953_1{
+    margin-top: 20px;
+    height: 288px;
+    width: 420px;
+}
+#img1953_2{
+    margin-top: 20px;
+    height: 288px;
+    width: 450px;
+}
+
+#chapter1{
+    display: flex;
+    gap:21px;
+}
+.text1{
+    width: 425px;
+}
 #main-title{
     text-align: center;
     font-family: "Kvitka";
@@ -53,165 +92,178 @@ body{
     
 }
 p{
+    max-width: 892%;
     text-indent: 15px;
     text-align: justify;
     font-family: "Arsenal";
     font-size: 20px;
+}
+.description{
+    text-indent: 0px !important;
+    text-align: center;
+    font-family: "Arsenal";
+    font-size: 15px;
 }
 .main-title-block{
     text-align: center;
     font-family: "Kvitka";
     font-size: 60px;
 }
+.container_2{
+    display: flex;
+    gap: 30px;    
+}
 
-.text1{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-#idp1{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
-}
-#idimg2
-{
-    position: relative;
-    top: 50px;
-    left: 100px;
-}
-.text2{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-#idp2{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
-}
-.text3{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-#idp3{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
-}
 .text4{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    width: 801px;
 }
-#idp4{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+#img8{
+    height: 351px;
+    width: 517px;
+}
+#img8A{
+    height: 272px;
+    width: 431px;
+}
+.container_3{
+    display: flex;
+    gap: 30px;    
+}
+#img9{
+    height: 568px;
+    width: 427px;
 }
 .text5{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-top: 50px;
+    width: 888px;
 }
-#idp5{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+#img9A{
+    margin-top: 40px;
+    height: 400px;
+    width: 1400px;
 }
-.text6{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+.container_4{
+    display: flex;
+    gap: 30px;    
 }
-#idp6{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+#img10{
+    height: 314px;
+    width: 270px;
 }
-.text7{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+#img11{
+    height: 314px;
+    width: 270px;
 }
-#idp7{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+#img11A{
+    height: 314px;
+    width: 270px;
 }
-.text8{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+#img12{
+    height: 314px;
+    width: 270px;
 }
-#idp8{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+#img12A{
+    height: 314px;
+    width: 270px;
 }
-.text9{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+.container_5{
+    display: flex;
+    gap: 30px;    
 }
-#idp9{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+#text6{
+    margin-top: 50px;
+    width: 599px;
 }
-.text10{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+#img14{
+    margin-top: 50px;
+    height: 263px;
+    width: 391px;
 }
-#idp10{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+#img13{
+    height: 441px;
+    width: 297px;
 }
-.text11{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+.container_6{
+    display: flex;
+    gap: 30px;    
 }
-#idp11{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+
+#img14A{
+    margin-top: 0px;
+    height: 339px;
+    width: 318px;
 }
-.text12{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+#text7{
+    margin-top: 50px;
+    width: 1325px;
 }
-#idp12{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+.container_7{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;    
 }
-.text13{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+.container_8{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;    
 }
-#idp13{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+.container_9{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;    
 }
-.text14{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+
+#text8{
+    margin-top: 100px;
+    width: 965px;
 }
-#idp14{
-    text-align: center;
-    font-family: "Kvitka";
-    font-size: 60px;
+.container_10{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;    
 }
-.text15{
-    padding-top: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+#text8A{
+    margin-top: 100px;
+    width: 566px;
+}
+.container_11{
+    margin-top: 30px;
+    display: flex;
+    gap: 50px;    
+}
+#text8B{
+    margin-top: 10px;
+    width: 300px;
+}
+#text8C{
+    margin-top: 10px;
+    width: 600px;
+}
+.container_12{
+    margin-top: 30px;
+    display: flex;
+    gap: 25px;    
+}
+#img29{
+    margin-top: 50px;
+    height: 500px;
+    width: 300px;
+}
+#img30{
+    margin-top: 50px;
+    height: 500px;
+    width: 300px;
+}
+#img31{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+}
+#img32{
+    margin-top: 50px;
+    height: 500px;
+    width: 500px;
+}
+#img32A{
+    margin-top: 0px;
 }
