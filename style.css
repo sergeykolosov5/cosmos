@@ -264,6 +264,193 @@ p{
     height: 500px;
     width: 500px;
 }
-#img32A{
-    margin-top: 0px;
+h1{  
+    font-family: "Arsenal";
+    font-size: 20px;
+    text-align: center; 
+    font-weight: 400; 
+    margin-left: 100px;   
 }
+#img33{
+    float: left;
+    margin-left: 45px;
+    margin-right: 25px; 
+}
+.text6{    
+    text-indent: 15px;
+    text-align: justify;
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 95%;
+    
+}
+#img32A{
+    width: 100%;
+}
+
+.main-title-block_1{
+    margin-left: 35px;
+    font-family: "Kvitka";
+    font-size: 60px;
+  
+}
+.text7 {
+    margin-left: 53px;
+    text-indent: 15px;
+    text-align: justify;
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 403px;
+}
+.text8{
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 874px;
+    float: right;
+    margin-right: 70px;
+    margin-top: -50%;
+    
+}
+
+.pic{
+    float: right;
+    margin-right: 68px;  
+}
+.specification{
+    font-family: "Arsenal";
+    font-size: 20px;
+    text-align: center;
+}
+.cont{
+    margin-top: -400px;
+    
+}
+#img37,#img37A{
+    margin-left: 26px;
+    display: block;   
+    margin-top: -100px;
+}
+#img37A{
+    margin-top: -100px;
+}
+.moon-content {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+#img38{
+    margin-top: 20px;
+}
+.text9{
+    width: 942px;
+    font-family: "Arsenal";
+    font-size: 20px;
+}
+.text10{
+    width: 281px;
+    font-family: "Arsenal";
+    font-size: 20px;
+}
+.moon-section{
+    float: right;
+    margin-top: -480px;
+    margin-right: 70px;
+}
+
+.moon {
+    display: flex;
+    gap: 40px;
+    margin: 40px ;
+    margin-left: 75px;
+}
+.text11{
+    width: 762px;
+    font-family: "Arsenal";
+    font-size: 20px;
+}
+.blue-ghost {
+    margin-top: 30px;
+    
+}
+.text12{
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 1277px;
+    margin-left: 70px; 
+    margin-top: -30px;
+}
+
+.spacex {
+    display: flex;
+    gap: 34px;
+    margin-left: 75px; 
+}
+
+.text13 {
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 778px;
+}
+
+.end{
+    background-image: 
+        url('./assets/img/image\ 65.png');   
+        overflow: hidden;  
+}
+.main-title-block_2{
+    font-family: "Kvitka";
+    font-size: 60px;
+    text-align: center;
+    padding: 91px;
+}
+.text16{
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 1325px;
+    margin-left: 60px;
+    margin-top: -80px;
+}
+#img45{
+    float: right;
+    margin-right: 34px;
+}
+
+.starlink {
+    margin-top: 35px;
+ 
+}
+.text14{
+    font-family: "Arsenal";
+    font-size: 20px;
+    margin-left: 96px;
+    width: 575px;
+}
+
+.starlink-images {
+    display: flex;
+    margin-top: 61px;
+}
+.right-images {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-left: -95px ;
+}
+
+.starlink1{
+    float: right;
+    margin-top: -980px;
+}
+.text15{
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 410px; 
+}
+#img44{
+    margin-left: 73px;
+}
+
+.starship-images{
+   margin-top: -150px;
+}
+
