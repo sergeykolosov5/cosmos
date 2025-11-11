@@ -454,3 +454,75 @@ h1{
    margin-top: -150px;
 }
 
+.gagarin{
+    margin-top: 51px;  
+}
+
+#img70{
+    width: 100%;
+    position: relative;
+    z-index: 10;
+}
+#img71{
+    height: 1208px;
+    
+}
+#img72{
+    margin-left: auto;
+}
+.main-title-block_3{
+    font-family: "Kvitka";
+    font-size: 60px;
+    margin-left: 300px;
+}
+.block1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px; 
+}
+
+.text17{
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 653px;
+    margin-left: 50px;      
+}
+.newspaper {
+    display: flex;
+    margin-top: -620px;   
+}
+#img33A{
+    float: right;
+    margin-top: -550px;
+    position: relative;
+    z-index: 10;
+}
+.main-title-block_4{
+    font-family: "Kvitka";
+    font-size: 60px;
+    margin-left: 320px;
+    
+}
+.text18{
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 854px;
+}
+.block2{
+    margin-top: -650px;
+    margin-left: 174px;
+}
+.text19{
+    font-family: "Arsenal";
+    font-size: 20px;
+    width: 800px;
+    margin-left: 156px;
+    
+}
+#img73{
+    margin-top: -900px ; 
+    width: 100%;
+   
+}
+
