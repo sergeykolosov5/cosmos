@@ -9,7 +9,7 @@ body{
     margin: 0;
     padding: 0;
 }
-#info{
+.info{
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -26,6 +26,21 @@ body{
     position: relative;
     z-index: 2;
     top: 36px;
+}
+#main-title{
+    text-align: center;
+    font-family: "Kvitka";
+    margin: 0;
+    padding-top: 10px;
+    font-size: 128px;
+}
+.text{
+    padding-top: 45px;
+    
+}
+#chapter1{
+    display: flex;
+    gap:21px;
 }
 #block1{
     display: flex;
@@ -59,20 +74,6 @@ body{
     width: 450px;
 }
 
-#chapter1{
-    display: flex;
-    gap:21px;
-}
-.text1{
-    width: 425px;
-}
-#main-title{
-    text-align: center;
-    font-family: "Kvitka";
-    margin: 0;
-    padding-top: 10px;
-    font-size: 128px;
-}
 #img1{
     width: 100%;
     height: 100%;
@@ -87,10 +88,7 @@ body{
 .container_1{
     display: inline-block;
 }
-.text{
-    padding-top: 45px;
-    
-}
+
 p{
     max-width: 892%;
     text-indent: 15px;
@@ -114,360 +112,97 @@ p{
     gap: 30px;    
 }
 
-.text4{
-    width: 801px;
-}
-#img8{
-    height: 351px;
-    width: 517px;
-}
 #img8A{
-    height: 272px;
-    width: 431px;
+ border-radius: 10px;
 }
-.container_3{
-    display: flex;
-    gap: 30px;    
-}
+
 #img9{
-    height: 568px;
-    width: 427px;
+    padding-top: 50px;
 }
-.text5{
-    margin-top: 50px;
-    width: 888px;
-}
-#img9A{
-    margin-top: 40px;
-    height: 400px;
-    width: 1400px;
+
+#img10{
+    width: 100%;
 }
 .container_4{
     display: flex;
     gap: 30px;    
 }
-#img10{
-    height: 314px;
-    width: 270px;
-}
-#img11{
-    height: 314px;
-    width: 270px;
-}
-#img11A{
-    height: 314px;
-    width: 270px;
-}
-#img12{
-    height: 314px;
-    width: 270px;
-}
-#img12A{
-    height: 314px;
-    width: 270px;
-}
 .container_5{
     display: flex;
     gap: 30px;    
 }
-#text6{
-    margin-top: 50px;
-    width: 599px;
+
+#img11{
+    margin-top: 30px;
 }
-#img14{
-    margin-top: 50px;
-    height: 263px;
-    width: 391px;
-}
-#img13{
-    height: 441px;
-    width: 297px;
+#img12{
+    margin-top: -60px;
 }
 .container_6{
     display: flex;
     gap: 30px;    
 }
-
-#img14A{
-    margin-top: 0px;
-    height: 339px;
-    width: 318px;
+.container_3{
+    margin-top: -80px;   
 }
-#text7{
-    margin-top: 50px;
-    width: 1325px;
+#img13{
+    margin-top: -150px;
+    position: absolute;
+    z-index: -1;
+}
+.container_4{
+    display: flex;
+    justify-content: center;
+    gap: 20px;    
+}
+.container_5{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;    
+}
+.container_6{
+    display: flex;
 }
 .container_7{
-    margin-top: 30px;
     display: flex;
-    gap: 20px;    
+    gap:30px;
 }
-.container_8{
-    margin-top: 30px;
-    display: flex;
-    gap: 20px;    
-}
-.container_9{
-    margin-top: 30px;
-    display: flex;
-    gap: 20px;    
+#img28{
+    width: 100%;
 }
 
-#text8{
-    margin-top: 100px;
-    width: 965px;
-}
-.container_10{
-    margin-top: 30px;
-    display: flex;
-    gap: 20px;    
-}
-#text8A{
-    margin-top: 100px;
-    width: 566px;
-}
-.container_11{
-    margin-top: 30px;
-    display: flex;
-    gap: 50px;    
-}
-#text8B{
-    margin-top: 10px;
-    width: 300px;
-}
-#text8C{
-    margin-top: 10px;
-    width: 600px;
-}
-.container_12{
-    margin-top: 30px;
-    display: flex;
-    gap: 25px;    
-}
-#img29{
-    margin-top: 50px;
-    height: 500px;
-    width: 300px;
-}
-#img30{
-    margin-top: 50px;
-    height: 500px;
-    width: 300px;
-}
-#img31{
-    margin-top: 50px;
-    height: 100px;
-    width: 100px;
-}
-#img32{
-    margin-top: 50px;
-    height: 500px;
-    width: 500px;
-}
-h1{  
+h1{
+    
     font-family: "Arsenal";
     font-size: 20px;
     text-align: center; 
     font-weight: 400; 
-    margin-left: 100px;   
+    margin-left: 100px;
+    
 }
-#img33{
+#img29{
     float: left;
     margin-left: 45px;
     margin-right: 25px; 
 }
 .text6{    
-    text-indent: 15px;
-    text-align: justify;
-    font-family: "Arsenal";
-    font-size: 20px;
-    width: 95%;
-    
+    width: 95%;   
 }
-#img32A{
-    width: 100%;
-}
-
-.main-title-block_1{
-    margin-left: 35px;
-    font-family: "Kvitka";
-    font-size: 60px;
-  
-}
-.text7 {
-    margin-left: 53px;
-    text-indent: 15px;
-    text-align: justify;
-    font-family: "Arsenal";
-    font-size: 20px;
-    width: 403px;
-}
-.text8{
-    font-family: "Arsenal";
-    font-size: 20px;
-    width: 874px;
-    float: right;
-    margin-right: 70px;
-    margin-top: -50%;
-    
-}
-
-.pic{
-    float: right;
-    margin-right: 68px;  
-}
-.specification{
-    font-family: "Arsenal";
-    font-size: 20px;
-    text-align: center;
-}
-.cont{
-    margin-top: -400px;
-    
-}
-#img37,#img37A{
-    margin-left: 26px;
-    display: block;   
-    margin-top: -100px;
-}
-#img37A{
-    margin-top: -100px;
-}
-.moon-content {
-    display: flex;
-    align-items: flex-start;
-    gap: 30px;
-}
-#img38{
-    margin-top: 20px;
-}
-.text9{
-    width: 942px;
-    font-family: "Arsenal";
-    font-size: 20px;
-}
-.text10{
-    width: 281px;
-    font-family: "Arsenal";
-    font-size: 20px;
-}
-.moon-section{
-    float: right;
-    margin-top: -480px;
-    margin-right: 70px;
-}
-
-.moon {
-    display: flex;
-    gap: 40px;
-    margin: 40px ;
-    margin-left: 75px;
-}
-.text11{
-    width: 762px;
-    font-family: "Arsenal";
-    font-size: 20px;
-}
-.blue-ghost {
-    margin-top: 30px;
-    
-}
-.text12{
-    font-family: "Arsenal";
-    font-size: 20px;
-    width: 1277px;
-    margin-left: 70px; 
-    margin-top: -30px;
-}
-
-.spacex {
-    display: flex;
-    gap: 34px;
-    margin-left: 75px; 
-}
-
-.text13 {
-    font-family: "Arsenal";
-    font-size: 20px;
-    width: 778px;
-}
-
-.end{
-    background-image: 
-        url('./assets/img/image\ 65.png');   
-        overflow: hidden;  
-}
-.main-title-block_2{
-    font-family: "Kvitka";
-    font-size: 60px;
-    text-align: center;
-    padding: 91px;
-}
-.text16{
-    font-family: "Arsenal";
-    font-size: 20px;
-    width: 1325px;
-    margin-left: 60px;
-    margin-top: -80px;
-}
-#img45{
-    float: right;
-    margin-right: 34px;
-}
-
-.starlink {
-    margin-top: 35px;
- 
-}
-.text14{
-    font-family: "Arsenal";
-    font-size: 20px;
-    margin-left: 96px;
-    width: 575px;
-}
-
-.starlink-images {
-    display: flex;
-    margin-top: 61px;
-}
-.right-images {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    margin-left: -95px ;
-}
-
-.starlink1{
-    float: right;
-    margin-top: -980px;
-}
-.text15{
-    font-family: "Arsenal";
-    font-size: 20px;
-    width: 410px; 
-}
-#img44{
-    margin-left: 73px;
-}
-
-.starship-images{
-   margin-top: -150px;
-}
-
 .gagarin{
     margin-top: 51px;  
 }
 
-#img70{
+#img30{
     width: 100%;
     position: relative;
     z-index: 10;
 }
-#img71{
+#img31{
     height: 1208px;
     
 }
-#img72{
+#img32{
     margin-left: auto;
 }
 .main-title-block_3{
@@ -483,8 +218,6 @@ h1{
 }
 
 .text17{
-    font-family: "Arsenal";
-    font-size: 20px;
     width: 653px;
     margin-left: 50px;      
 }
@@ -492,7 +225,7 @@ h1{
     display: flex;
     margin-top: -620px;   
 }
-#img33A{
+#img33{
     float: right;
     margin-top: -550px;
     position: relative;
@@ -501,12 +234,9 @@ h1{
 .main-title-block_4{
     font-family: "Kvitka";
     font-size: 60px;
-    margin-left: 320px;
-    
+    margin-left: 320px; 
 }
 .text18{
-    font-family: "Arsenal";
-    font-size: 20px;
     width: 854px;
 }
 .block2{
@@ -514,15 +244,133 @@ h1{
     margin-left: 174px;
 }
 .text19{
-    font-family: "Arsenal";
-    font-size: 20px;
     width: 800px;
     margin-left: 156px;
-    
 }
-#img73{
+#img35{
     margin-top: -900px ; 
     width: 100%;
-   
+}
+.main-title-block_1{
+    margin-left: 35px;
+    font-family: "Kvitka";
+    font-size: 60px;
+}
+
+#gonka{
+    display: flex;
+    gap: 100px;
+}
+#gonka1{
+    display: flex;
+    gap: 30px;
+}
+.specification{
+    font-family: "Arsenal";
+    font-size: 20px;
+    text-align: center;
+}
+
+#img38,#img39{
+    margin-left: 26px;
+    display: block;   
+    margin-top: -100px;
+}
+.moon-content {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+#img40{
+    margin-top: 20px;
+}
+.text9{
+    width: 942px;
+}
+.text10{
+    width: 281px;
+}
+.moon-section{
+    float: right;
+    margin-top: -480px;
+    margin-right: 70px;
+}
+.moon {
+    display: flex;
+    gap: 40px;
+    margin: 40px ;
+    margin-left: 75px;
+}
+.text11{
+    width: 762px;
+}
+.blue-ghost {
+    margin-top: 30px;
+}
+.text12{
+    width: 1277px;
+    margin-left: 70px; 
+    margin-top: -30px;
+}
+.spacex {
+    display: flex;
+    gap: 34px;
+    margin-left: 75px; 
+}
+.text13 {
+    width: 778px;
+}
+.starlink {
+    margin-top: 35px;
+ 
+}
+.text14{
+    margin-left: 96px;
+    width: 575px;
+}
+
+.starlink-images {
+    display: flex;
+    margin-top: 61px;
+}
+.right-images {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-left: -95px ;
+}
+.starlink1{
+    float: right;
+    margin-top: -980px;
+}
+.text15{
+    width: 410px; 
+}
+#img44{
+    margin-left: 73px;
+}
+
+.starship-images{
+   margin-top: -150px;
+}
+.end{
+    background-image: 
+        url('./assets/img/img49.png');   
+         overflow: hidden;  
+}
+.main-title-block_2{
+    font-family: "Kvitka";
+    font-size: 60px;
+    text-align: center;
+    padding: 91px;
+}
+.text16{
+    width: 1325px;
+    margin-left: 60px;
+    margin-top: -80px;
+}
+#img48{
+    float: right;
+    margin-right: 34px;
 }
 
